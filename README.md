@@ -3,7 +3,7 @@ transmission-wui
 
 *Transmission WUI improvements*
 
-Fatures:
+Features:
 ------------
 
 ###Accesskeys:
